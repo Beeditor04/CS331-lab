@@ -1,0 +1,10 @@
+pyyaml
+tqdm
+Pillow
+opencv-python-headless
+cython_bbox
+lap
+numpy
+scipy
+matplotlib
+polar
